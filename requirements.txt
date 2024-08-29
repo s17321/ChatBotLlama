@@ -1,0 +1,10 @@
+fastapi
+unicorn
+streamlit
+requests
+llama_index
+llama-index-llms-llama-cpp 
+langchain_community
+rapidocr-onnxruntime
+sentence-transformers
+chromadb
